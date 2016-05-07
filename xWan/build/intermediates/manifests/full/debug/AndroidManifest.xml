@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.xwan"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="12"
+        android:targetSdkVersion="18" />
+
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="com.example.xwan.common.MApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/main_app_name"
+        android:theme="@style/MyAPPTheme" >
+        <activity
+            android:name="com.example.xwan.activity.MainActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="@string/main_app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.xwan.base.BaseActivity" />
+        <activity
+            android:name="com.example.xwan.activity.DetailActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="@string/title_activity_detail" />
+        <activity
+            android:name="com.example.xwan.base.TitleBaseActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="@string/title_activity_title_base" />
+        <activity
+            android:name="com.example.xwan.View.windos8view.ui.Windos8CardActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden" />
+        <activity
+            android:name="com.example.xwan.activity.UserContactActivity"
+            android:label="@string/title_activity_user_contact" />
+        <activity android:name="com.example.xwan.activity.CommentActivity" />
+        <activity
+            android:name="me.nereo.multi_image_selector.MultiImageSelectorActivity"
+            android:configChanges="orientation|screenSize" />
+    </application>
+
+</manifest>

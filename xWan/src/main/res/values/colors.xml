@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 以下是APP本身设置需要颜色 -->
+
+    <color name="white_color">#ffffff</color>
+    <color name="app_bg_color">#EEF4F7</color>
+    <color name="app_text_color">#74798f</color>
+    <color name="app_style_color">#40B4FF</color>
+    <color name="app_titlebg_color">#40B4FF</color>
+    <color name="untrance_bg">#40000000</color>
+    <color name="gary_bg">#d2d2d2</color>
+    <color name="comment_textbg">#99B3C7</color>
+    <!-- 以下是自定义控件颜色 -->
+    <color name="colorPrimaryDark">#f57257</color>
+    <color name="colorPrimary">#f46444</color>
+    <color name="float_transparent">#00000000</color>
+    <color name="sweet_dialog_bg_color">#FFFFFF</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="gray_btn_bg_color">#D0D0D0</color>
+    <color name="gray_btn_bg_pressed_color">#B6B6B6</color>
+    <color name="blue_btn_bg_color">#AEDEF4</color>
+    <color name="blue_btn_bg_pressed_color">#96BFD2</color>
+    <color name="red_btn_bg_color">#DD6B55</color>
+    <color name="red_btn_bg_pressed_color">#CD5B55</color>
+    <color name="error_stroke_color">#F27474</color>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+    <color name="warning_stroke_color">#F8BB86</color>
+    <color name="text_color">#575757</color>
+    <color name="material_blue_grey_80">#ff37474f</color>
+    <color name="material_blue_grey_90">#ff263238</color>
+    <color name="material_blue_grey_95">#ff21272b</color>
+    <color name="material_deep_teal_20">#ff80cbc4</color>
+    <color name="material_deep_teal_50">#ff009688</color>
+    <!-- 播放Item进度选择颜色 -->
+    <color name="holo_blue_dark">#ff0099cc</color>
+    <color name="loading_text_color">#40B5FF</color>
+    <color name="line_big_color">#DBE2E5</color>
+    <color name="video_item_bg_blue">#0078db</color>
+    <color name="video_item_text_color">#d1d1d1</color>
+    <color name="video_item_text_color_blue">#0078db</color>
+
+    <!-- 播放进度选择颜色 -->
+    <color name="video_info_item_selected_bg">#3fa3f8</color>
+    <color name="video_info_item_played_bg">#ffffff</color>
+    <color name="video_info_item_default_bg">#ffffff</color>
+
+</resources>

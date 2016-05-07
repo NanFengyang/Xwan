@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.xwan.View.DisScroollView.DiscrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:discrollve="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/detail_scrollview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.example.xwan.View.DisScroollView.DiscrollViewContent
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="600dp">
+
+            <ImageView
+                android:id="@+id/detail_img"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitXY"
+                android:src="@drawable/test" />
+
+            <TextView
+                android:id="@+id/img_more"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:alpha="0.3"
+                android:background="@drawable/shape_untrance_rect"
+                android:gravity="center_vertical|center_horizontal"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:text="多图"
+                android:textColor="@color/white_color"
+                android:textSize="@dimen/title_size" />
+
+            <RelativeLayout
+                android:id="@+id/detail_title_bg"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_alignParentBottom="true">
+
+                <TextView
+                    android:id="@+id/detail_title_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="13dp"
+                    android:text="大宁灵石公园"
+                    android:textColor="@android:color/white"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/detail_title_info"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/detail_title_name"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="5dp"
+                    android:text="郁金香花展 &amp; 上海市  闸北区"
+                    android:textColor="@android:color/white"
+                    android:textSize="@dimen/text_size" />
+
+                <ImageButton
+                    android:id="@+id/detail_title_hear"
+                    android:layout_width="28dp"
+                    android:layout_height="28dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="20dp"
+                    android:background="@null"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/icon_hear" />
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            discrollve:discrollve_fromBgColor="@color/app_bg_color"
+            discrollve:discrollve_toBgColor="@color/app_titlebg_color">
+
+            <TextView
+                android:id="@+id/detail_address"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:drawableLeft="@drawable/sh_icon_event_list_location"
+                android:drawablePadding="5dp"
+                android:text="5.6 KM"
+                android:textColor="@color/app_text_color"
+                android:textSize="@dimen/title_size" />
+
+            <TextView
+                android:id="@+id/detail_money"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"
+                android:drawableLeft="@drawable/sh_icon_event_list_money"
+                android:drawablePadding="5dp"
+                android:text="20 元"
+                android:textColor="@color/app_text_color"
+                android:textSize="@dimen/title_size" />
+        </RelativeLayout>
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#d2d2d2" />
+
+
+        <GridView
+            android:id="@+id/detail_userheardgridView"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginTop="5dp"
+            android:background="@android:color/white"
+            android:horizontalSpacing="3dp"
+            android:numColumns="8"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_threshold="0.1" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/head_more"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginBottom="5dp"
+                android:layout_marginRight="5dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:paddingTop="1dp"
+                android:text="MORE"
+                android:textColor="@color/gary_bg"
+                android:textSize="@dimen/text_size" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#d2d2d2" />
+
+        <com.example.xwan.video.MyVideoView
+            android:id="@+id/myvideo"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            discrollve:discrollve_alpha="true"
+            discrollve:discrollve_scaleX="true"
+            discrollve:discrollve_scaleY="true" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#d2d2d2" />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/add_comment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:text="添加评论"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="5dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingTop="1dp"
+            android:textColor="@color/app_text_color"
+            android:textSize="@dimen/title_size" />
+        </RelativeLayout>
+        <com.example.xwan.View.comment.CommentView
+            android:id="@+id/mycomment"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp" />
+    </com.example.xwan.View.DisScroollView.DiscrollViewContent>
+
+</com.example.xwan.View.DisScroollView.DiscrollView>

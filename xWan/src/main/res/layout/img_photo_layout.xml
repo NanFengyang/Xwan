@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.xwan.View.Image.photoview.PhotoView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/photoview"
+    android:layout_width="80dp"
+    android:layout_height="80dp"
+    android:src="@drawable/hearder"
+    android:scaleType="centerCrop">
+
+
+</com.example.xwan.View.Image.photoview.PhotoView>

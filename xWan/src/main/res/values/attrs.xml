@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="roundedimageview">
+        <attr name="border_thickness" format="dimension" />
+        <attr name="border_inside_color" format="color" />
+        <attr name="border_outside_color" format="color"></attr>
+    </declare-styleable>
+    <declare-styleable name="ProgressWheel">
+        <attr name="matProg_progressIndeterminate" format="boolean" />
+        <attr name="matProg_barColor" format="color" />
+        <attr name="matProg_rimColor" format="color" />
+        <attr name="matProg_rimWidth" format="dimension" />
+        <attr name="matProg_spinSpeed" format="float" />
+        <attr name="matProg_barSpinCycleTime" format="integer" />
+        <attr name="matProg_circleRadius" format="dimension" />
+        <attr name="matProg_fillRadius" format="boolean" />
+        <attr name="matProg_barWidth" format="dimension" />
+        <attr name="matProg_linearProgress" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="Rotate3dAnimation">
+        <attr name="rollType" format="enum">
+            <enum name="x" value="0" />
+            <enum name="y" value="1" />
+            <enum name="z" value="2" />
+        </attr>
+        <attr name="fromDeg" format="float" />
+        <attr name="toDeg" format="float" />
+        <attr name="pivotX" format="fraction" />
+        <attr name="pivotY" format="fraction" />
+    </declare-styleable>
+    <declare-styleable name="DiscrollView_LayoutParams">
+        <attr name="discrollve_alpha" format="boolean" />
+        <attr name="discrollve_scaleX" format="boolean" />
+        <attr name="discrollve_scaleY" format="boolean" />
+        <attr name="discrollve_threshold" format="float" />
+        <attr name="discrollve_fromBgColor" format="color" />
+        <attr name="discrollve_toBgColor" format="color" />
+        <attr name="discrollve_translation" />
+    </declare-styleable>
+
+    <attr name="discrollve_translation">
+        <flag name="fromTop" value="0x01" />
+        <flag name="fromBottom" value="0x02" />
+        <flag name="fromLeft" value="0x04" />
+        <flag name="fromRight" value="0x08" />
+    </attr>
+
+    <array name="sv_videoview_layers">
+        <item>@array/sv_videoview_layer_controllayer</item>
+    </array>
+    <!-- 一组竖屏+横屏 -->
+    <array name="sv_videoview_layer_controllayer">
+        <item>@layout/control_layer</item>
+        <item>@layout/control_layer_horizon</item>
+    </array>
+    <!-- 以下是shape imageview的 -->
+    <attr name="siArrowPosition">
+        <enum name="left" value="0" />
+        <enum name="right" value="1" />
+    </attr>
+    <attr name="siBorderType">
+        <enum name="stroke" value="0" />
+        <enum name="fill" value="1" />
+    </attr>
+    <attr name="siStrokeCap">
+        <enum name="butt" value="0" />
+        <enum name="round" value="1" />
+        <enum name="square" value="2" />
+    </attr>
+    <attr name="siStrokeJoin">
+        <enum name="bevel" value="0" />
+        <enum name="miter" value="1" />
+        <enum name="round" value="2" />
+    </attr>
+
+    <declare-styleable name="ShaderImageView">
+        <attr name="siSquare" format="boolean" />
+        <attr name="siBorderColor" format="color" />
+        <attr name="siBorderWidth" format="dimension" />
+        <attr name="siBorderAlpha" format="float" />
+        <attr name="siForeground" format="integer|reference" />
+        <!-- Rounded Image View -->
+        <attr name="siRadius" format="dimension" />
+        <!-- BubbleImageView -->
+        <attr name="siArrowPosition" />
+        <attr name="siTriangleHeight" format="dimension" />
+        <!-- PorterImageView -->
+        <attr name="siShape" format="integer|reference" />
+        <!-- ShaderImageView -->
+        <attr name="siBorderType" />
+        <attr name="siStrokeCap" />
+        <attr name="siStrokeJoin" />
+        <attr name="siStrokeMiter" format="dimension" />
+    </declare-styleable>
+
+</resources>

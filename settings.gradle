@@ -1,0 +1,3 @@
+include ':sinavideo_playercore_v20', ':multi-image-selector'
+include ':sinavideo_playersdk_v20'
+include ':xWan'

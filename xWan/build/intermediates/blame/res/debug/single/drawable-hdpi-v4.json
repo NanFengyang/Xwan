@@ -1,0 +1,786 @@
+[
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gestrue_brightness.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\gestrue_brightness.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_sound_ball.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_sound_ball.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_volume_bg.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_volume_bg.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicater_progress.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\indicater_progress.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_pause_bg.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_pause_bg.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_fullscreen_press_bg.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_fullscreen_press_bg.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicater_progress.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\indicater_progress.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_back_press_bg.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_back_press_bg.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_back_bg.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_back_bg.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_title_bg.9.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_title_bg.9.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_seek_backward.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_seek_backward.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\julia.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\drawable-hdpi\\julia.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orientation_lock_open.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\orientation_lock_open.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quality_bg_normal.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\quality_bg_normal.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tvicon.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\tvicon.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_item_play_icon.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\drawable-hdpi\\video_item_play_icon.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_video_list_item_bg.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_video_list_item_bg.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_video_list_bg.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_video_list_bg.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orientation_lock_open.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\orientation_lock_open.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_fullscreen_press_bg.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_fullscreen_press_bg.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\irene.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\drawable-hdpi\\irene.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ad_silent_press.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\ad_silent_press.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dlna_unable_icon.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\dlna_unable_icon.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_error_tip.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_error_tip.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_item_play_icon.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\drawable-hdpi\\video_item_play_icon.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\close_tip.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\close_tip.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicater_brightness.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\indicater_brightness.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\definition_select_bg.9.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\definition_select_bg.9.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_video_list_press_bg.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_video_list_press_bg.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\light_high.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\light_high.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playbutton_press.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\playbutton_press.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\daria.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\drawable-hdpi\\daria.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_back_bg.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_back_bg.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ad_silent_press.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\ad_silent_press.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_volume_bg.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_volume_bg.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dlna_list_bg.9.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\dlna_list_bg.9.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_fullscreen_bg.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_fullscreen_bg.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image_progress.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\drawable-hdpi\\image_progress.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\anastasia.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\drawable-hdpi\\anastasia.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_volume_press_bg.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_volume_press_bg.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_title_bg.9.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_title_bg.9.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\decoding_setting.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\decoding_setting.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_error_tip.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_error_tip.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_sound_gestrue_silent.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_sound_gestrue_silent.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orientation_lock_close.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\orientation_lock_close.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_fullscreen_bg.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_fullscreen_bg.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playbutton_default.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\playbutton_default.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_pause_bg.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_pause_bg.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quality_bg_press.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\quality_bg_press.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\julia.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\drawable-hdpi\\julia.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\paul.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\drawable-hdpi\\paul.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_sound_gestrue_silent.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_sound_gestrue_silent.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\net_tip_icon.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\net_tip_icon.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_seek_backward.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_seek_backward.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicater_sound.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\indicater_sound.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\decoding_setting.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\decoding_setting.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_play_press_bg.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_play_press_bg.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gestrue_brightness.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\gestrue_brightness.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_sound_ball.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_sound_ball.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicater_brightness.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\indicater_brightness.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dlna_icon.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\dlna_icon.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ad_silent_normal.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\ad_silent_normal.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_pause_press_bg.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_pause_press_bg.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_sound_gestrue.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_sound_gestrue.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\light_low.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\light_low.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\light_high.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\light_high.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicater_sound.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\indicater_sound.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_right_panel_bg.9.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\player_right_panel_bg.9.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_play_bg.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_play_bg.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image_progress.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\drawable-hdpi\\image_progress.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_volume_progressbar_bg.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_volume_progressbar_bg.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\definition_select_bg.9.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\definition_select_bg.9.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_right_panel_bg.9.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\player_right_panel_bg.9.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photobackground.9.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\drawable-hdpi\\photobackground.9.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_video_list_press_bg.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_video_list_press_bg.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kirill.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\drawable-hdpi\\kirill.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yalantis.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\drawable-hdpi\\yalantis.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_play_press_bg.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_play_press_bg.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_bottom_bg.9.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_bottom_bg.9.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\irene.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\drawable-hdpi\\irene.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kirill.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\drawable-hdpi\\kirill.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dlna_unable_icon.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\dlna_unable_icon.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\more.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\more.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quality_bg_normal.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\quality_bg_normal.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\daria.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\drawable-hdpi\\daria.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_seek_flag_bg.9.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_seek_flag_bg.9.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_sound_gestrue.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_sound_gestrue.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kate.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\drawable-hdpi\\kate.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yalantis.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\drawable-hdpi\\yalantis.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\light_low.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\light_low.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photobackground.9.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\drawable-hdpi\\photobackground.9.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_seek_flag_bg.9.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_seek_flag_bg.9.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_pause_press_bg.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_pause_press_bg.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_volume_press_bg.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_volume_press_bg.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_back_press_bg.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_back_press_bg.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_seek_forward.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_seek_forward.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_video_list_bg.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_video_list_bg.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_retry_play.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\btn_retry_play.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tvicon.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\tvicon.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_seek_forward.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_seek_forward.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orientation_lock_close.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\orientation_lock_close.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\net_tip_icon.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\net_tip_icon.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quality_bg_press.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\quality_bg_press.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ad_silent_normal.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\ad_silent_normal.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\more.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\more.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playbutton_default.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\playbutton_default.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dlna_list_bg.9.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\dlna_list_bg.9.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_bottom_bg.9.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_bottom_bg.9.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dlna_icon.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\dlna_icon.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\paul.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\drawable-hdpi\\paul.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_retry_play.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\btn_retry_play.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\close_tip.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\close_tip.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kate.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\drawable-hdpi\\kate.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_play_bg.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_play_bg.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_video_list_item_bg.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_video_list_item_bg.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\anastasia.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\drawable-hdpi\\anastasia.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playbutton_press.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\playbutton_press.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_ctrl_volume_progressbar_bg.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\drawable-hdpi-v4\\play_ctrl_volume_progressbar_bg.png"
+    }
+]

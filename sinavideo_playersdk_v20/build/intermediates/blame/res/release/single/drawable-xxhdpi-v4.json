@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_seek_backward.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_seek_backward.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\close_tip.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\close_tip.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_sound_ball.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_sound_ball.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\tvicon.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\tvicon.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_pause_press_bg.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_pause_press_bg.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\net_tip_icon.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\net_tip_icon.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\dlna_icon.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\dlna_icon.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\btn_retry_play.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\btn_retry_play.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\indicater_sound.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\indicater_sound.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\orientation_lock_close.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\orientation_lock_close.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\dlna_unable_icon.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\dlna_unable_icon.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\orientation_lock_close.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\orientation_lock_close.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\indicater_progress.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\indicater_progress.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_back_press_bg.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_back_press_bg.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\dlna_unable_icon.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\dlna_unable_icon.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\gestrue_brightness.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\gestrue_brightness.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\light_low.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\light_low.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_fullscreen_press_bg.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_fullscreen_press_bg.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\light_low.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\light_low.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_pause_bg.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_pause_bg.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_fullscreen_bg.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_fullscreen_bg.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\quality_bg_press.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\quality_bg_press.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_seek_forward.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_seek_forward.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_pause_bg.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_pause_bg.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\decoding_setting.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\decoding_setting.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_volume_bg.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_volume_bg.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_volume_bg.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_volume_bg.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_error_tip.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_error_tip.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ad_silent_normal.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\ad_silent_normal.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_error_tip.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_error_tip.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\light_high.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\light_high.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\btn_retry_play.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\btn_retry_play.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_video_list_bg.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_video_list_bg.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\more.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\more.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\dlna_icon.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\dlna_icon.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_fullscreen_press_bg.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_fullscreen_press_bg.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\orientation_lock_open.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\orientation_lock_open.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_fullscreen_bg.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_fullscreen_bg.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ad_silent_press.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\ad_silent_press.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_sound_gestrue_silent.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_sound_gestrue_silent.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\gestrue_brightness.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\gestrue_brightness.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\indicater_brightness.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\indicater_brightness.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\indicater_brightness.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\indicater_brightness.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_video_list_bg.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_video_list_bg.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_pause_press_bg.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_pause_press_bg.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\quality_bg_normal.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\quality_bg_normal.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_seek_backward.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_seek_backward.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\quality_bg_press.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\quality_bg_press.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_back_press_bg.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_back_press_bg.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_sound_gestrue_silent.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_sound_gestrue_silent.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\indicater_sound.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\indicater_sound.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_sound_gestrue.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_sound_gestrue.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\more.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\more.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_volume_press_bg.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_volume_press_bg.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_back_bg.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_back_bg.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\orientation_lock_open.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\orientation_lock_open.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_sound_gestrue.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_sound_gestrue.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\indicater_progress.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\indicater_progress.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ad_silent_normal.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\ad_silent_normal.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_video_list_press_bg.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_video_list_press_bg.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\quality_bg_normal.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\quality_bg_normal.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\close_tip.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\close_tip.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_seek_forward.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_seek_forward.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_volume_press_bg.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_volume_press_bg.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ad_silent_press.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\ad_silent_press.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_back_bg.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_back_bg.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_video_list_press_bg.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_video_list_press_bg.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\light_high.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\light_high.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\play_ctrl_sound_ball.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\play_ctrl_sound_ball.png"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\net_tip_icon.png",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\net_tip_icon.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\decoding_setting.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\decoding_setting.png"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\tvicon.png",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\drawable-xxhdpi\\tvicon.png"
+    }
+]

@@ -1,0 +1,62 @@
+<resources>
+
+    <style name="MyAPPTheme" parent="@android:style/Theme.Light">
+        <item name="android:windowBackground">@color/app_bg_color</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:fadingEdge">none</item>
+        <!-- 去掉顶部的渐变 -->
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowFullscreen">false</item>
+    </style>
+
+    <style name="alert_dialog" parent="android:Theme.Dialog">
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowBackground">@color/float_transparent</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.4</item>
+    </style>
+
+    <style name="dialog_blue_button" parent="android:Widget.Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">31dp</item>
+        <item name="android:background">@drawable/blue_button_background</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:paddingLeft">21dp</item>
+        <item name="android:paddingRight">21dp</item>
+        <item name="android:textColor">@color/button_text_color</item>
+    </style>
+
+    <style name="TextView">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="TextView.Interest" parent="TextView">
+        <item name="android:background">@drawable/round_textview</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextView.Nickname" parent="TextView">
+        <item name="android:textSize">30sp</item>
+        <item name="android:layout_marginTop">30dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+    </style>
+
+    <style name="LinearLayout" />
+
+    <style name="LinearLayout.Interests">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_marginTop">14dp</item>
+        <item name="android:layout_marginLeft">14dp</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+</resources>

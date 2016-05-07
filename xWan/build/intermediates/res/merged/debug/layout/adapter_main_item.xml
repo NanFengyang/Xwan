@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/app_bg_color"
+    android:orientation="vertical"
+    android:padding="5dp" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/shape_item_white_rect"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/item_toplayout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:padding="2dp" >
+
+                <com.example.xwan.View.Image.shapeimageview.CircularImageView
+                    android:id="@+id/header_img"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginLeft="10dp"
+                    android:src="@drawable/hearder" />
+
+                <TextView
+                    android:id="@+id/uesr_name"
+                    android:layout_width="fill_parent"
+                    android:layout_height="20dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="莫玲玲"
+                    android:textColor="@color/app_text_color"
+                    android:textSize="@dimen/title_size" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="205dp"
+                android:layout_marginTop="5dp" >
+
+                <ImageView
+                    android:id="@+id/item_img"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/test_main_list_item1" />
+
+                <TextView
+                    android:id="@+id/item_title"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:background="@drawable/sh_event_list_buttom_bg"
+                    android:ellipsize="end"
+                    android:gravity="center_vertical"
+                    android:maxLines="1"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:text="打开古典音乐之门"
+                    android:textColor="@android:color/white"
+                    android:textSize="@dimen/title_size" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/item_mapaddress"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/white"
+                android:padding="10dp" >
+
+                <TextView
+                    android:id="@+id/item_address"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/white"
+                    android:drawableLeft="@drawable/sh_icon_event_list_location"
+                    android:drawablePadding="5dp"
+                    android:ellipsize="end"
+                    android:maxLines="1"
+                    android:text="地点: 上海市浦东新区人民广场"
+                    android:textColor="@color/app_text_color"
+                    android:textSize="@dimen/text_size" />
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/item_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:background="@android:color/white"
+                android:drawableLeft="@drawable/sh_icon_event_list_time"
+                android:drawablePadding="5dp"
+                android:ellipsize="end"
+                android:maxLines="2"
+                android:text="日期: 2015-9-27至2015-9-27"
+                android:textColor="@color/app_text_color"
+                android:textSize="@dimen/text_size" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

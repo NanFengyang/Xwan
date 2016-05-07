@@ -1,0 +1,117 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From XWan:
+* ic_launcher-web.png
+* proguard-project.txt
+From sinavideo_playercore_v2.0:
+* .gitignore
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\encodings.xml
+* .idea\gradle.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\runConfigurations.xml
+* .idea\workspace.xml
+* README.md
+* build.gradle
+* build.xml
+* gradle\
+* gradle\wrapper\
+* gradle\wrapper\gradle-wrapper.jar
+* gradle\wrapper\gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* ic_launcher-web.png
+* proguard-project.txt
+* sinavideo_playercore-master.iml
+* sinavideo_playercore_v2.0.iml
+From sinavideo_playersdk_v2.0:
+* .gitignore
+* README.md
+* build.gradle
+* build.xml
+* doc\
+* doc\快速开始\
+* doc\快速开始\快速启动.docx
+* doc\用户手册\
+* doc\用户手册\使用说明书.docx
+* ic_launcher-web.png
+* struct.png
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In sinavideo_playercore_v2.0:
+* AndroidManifest.xml => sinavideo_playercore_v20\src\main\AndroidManifest.xml
+* assets\ => sinavideo_playercore_v20\src\main\assets
+* libs\armeabi-v7a\libsinit.so => sinavideo_playercore_v20\src\main\jniLibs\armeabi-v7a\libsinit.so
+* libs\armeabi\libsinit.so => sinavideo_playercore_v20\src\main\jniLibs\armeabi\libsinit.so
+* libs\mips\libsinit.so => sinavideo_playercore_v20\src\main\jniLibs\mips\libsinit.so
+* libs\x86\libsinit.so => sinavideo_playercore_v20\src\main\jniLibs\x86\libsinit.so
+* lint.xml => sinavideo_playercore_v20\lint.xml
+* res\ => sinavideo_playercore_v20\src\main\res\
+* src\ => sinavideo_playercore_v20\src\main\java\
+In sinavideo_playersdk_v2.0:
+* AndroidManifest.xml => sinavideo_playersdk_v20\src\main\AndroidManifest.xml
+* assets\ => sinavideo_playersdk_v20\src\main\assets
+* res\ => sinavideo_playersdk_v20\src\main\res\
+* src\ => sinavideo_playersdk_v20\src\main\java\
+In XWan:
+* AndroidManifest.xml => xWan\src\main\AndroidManifest.xml
+* assets\ => xWan\src\main\assets
+* libs\Afinal-0.3.4.jar => xWan\libs\Afinal-0.3.4.jar
+* libs\android-support-v7-recyclerview.jar => xWan\libs\android-support-v7-recyclerview.jar
+* libs\kxml2-2.2.2.jar => xWan\libs\kxml2-2.2.2.jar
+* libs\nineoldandroids-2.4.0.jar => xWan\libs\nineoldandroids-2.4.0.jar
+* libs\universal-image-loader-1.9.3-SNAPSHOT.jar => xWan\libs\universal-image-loader-1.9.3-SNAPSHOT.jar
+* res\ => xWan\src\main\res\
+* src\ => xWan\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

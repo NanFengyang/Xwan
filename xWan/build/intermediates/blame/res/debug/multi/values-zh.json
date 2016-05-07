@@ -1,0 +1,316 @@
+[
+    {
+        "outputFile": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\multi-image-selector\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 42,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 42,
+                    "endOffset": 136
+                },
+                "from": {
+                    "file": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\multi-image-selector\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 42,
+                        "endOffset": 136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 141,
+                    "endColumn": 43,
+                    "endOffset": 180
+                },
+                "from": {
+                    "file": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\multi-image-selector\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 141,
+                        "endColumn": 43,
+                        "endOffset": 180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 185,
+                    "endColumn": 55,
+                    "endOffset": 236
+                },
+                "from": {
+                    "file": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\multi-image-selector\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 55,
+                        "endOffset": 236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 241,
+                    "endColumn": 48,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\multi-image-selector\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 241,
+                        "endColumn": 48,
+                        "endOffset": 285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endColumn": 40,
+                    "endOffset": 326
+                },
+                "from": {
+                    "file": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\multi-image-selector\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 40,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 331,
+                    "endColumn": 38,
+                    "endOffset": 365
+                },
+                "from": {
+                    "file": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\multi-image-selector\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 38,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 370,
+                    "endColumn": 47,
+                    "endOffset": 413
+                },
+                "from": {
+                    "file": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\multi-image-selector\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 370,
+                        "endColumn": 47,
+                        "endOffset": 413
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\multi-image-selector\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 42,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 42,
+                    "endOffset": 136
+                },
+                "from": {
+                    "file": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\multi-image-selector\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 42,
+                        "endOffset": 136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 141,
+                    "endColumn": 43,
+                    "endOffset": 180
+                },
+                "from": {
+                    "file": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\multi-image-selector\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 141,
+                        "endColumn": 43,
+                        "endOffset": 180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 185,
+                    "endColumn": 55,
+                    "endOffset": 236
+                },
+                "from": {
+                    "file": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\multi-image-selector\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 55,
+                        "endOffset": 236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 241,
+                    "endColumn": 48,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\multi-image-selector\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 241,
+                        "endColumn": 48,
+                        "endOffset": 285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endColumn": 40,
+                    "endOffset": 326
+                },
+                "from": {
+                    "file": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\multi-image-selector\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 40,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 331,
+                    "endColumn": 38,
+                    "endOffset": 365
+                },
+                "from": {
+                    "file": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\multi-image-selector\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 38,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 370,
+                    "endColumn": 47,
+                    "endOffset": 413
+                },
+                "from": {
+                    "file": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\multi-image-selector\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 370,
+                        "endColumn": 47,
+                        "endOffset": 413
+                    }
+                }
+            }
+        ]
+    }
+]

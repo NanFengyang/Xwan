@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="40dp" >
+
+    <EditText
+        android:id="@+id/barrage_input"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginRight="85dp"
+        android:focusable="true"
+        android:hint="输入你要发送的内容"
+        android:textColor="#8d8d8d"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/barrage_send"
+        android:layout_width="80dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:text="发送" />
+
+</RelativeLayout>

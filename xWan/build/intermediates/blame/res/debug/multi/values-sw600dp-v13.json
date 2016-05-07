@@ -1,0 +1,408 @@
+[
+    {
+        "outputFile": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-sw600dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 69,
+                        "endOffset": 345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 69,
+                    "endOffset": 190
+                },
+                "from": {
+                    "file": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-sw600dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 350,
+                        "endColumn": 69,
+                        "endOffset": 415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 195,
+                    "endColumn": 58,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-sw600dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 645,
+                        "endColumn": 58,
+                        "endOffset": 699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 254,
+                    "endColumn": 70,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-sw600dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 929,
+                        "endColumn": 70,
+                        "endOffset": 995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 67,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-sw600dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1000,
+                        "endColumn": 67,
+                        "endOffset": 1063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 54,
+                    "endOffset": 443
+                },
+                "from": {
+                    "file": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-sw600dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1068,
+                        "endColumn": 54,
+                        "endOffset": 1118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 448,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 736
+                },
+                "from": {
+                    "file": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\values-sw600dp\\styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 193,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 741,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 896
+                },
+                "from": {
+                    "file": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\values-sw600dp\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 526,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 901,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1468
+                },
+                "from": {
+                    "file": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\values-sw600dp\\styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 691,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1473,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 1975
+                },
+                "from": {
+                    "file": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\values-sw600dp\\styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1275,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 1785
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-sw600dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 69,
+                        "endOffset": 345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 69,
+                    "endOffset": 190
+                },
+                "from": {
+                    "file": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-sw600dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 350,
+                        "endColumn": 69,
+                        "endOffset": 415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 195,
+                    "endColumn": 58,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-sw600dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 645,
+                        "endColumn": 58,
+                        "endOffset": 699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 254,
+                    "endColumn": 70,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-sw600dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 929,
+                        "endColumn": 70,
+                        "endOffset": 995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 67,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-sw600dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1000,
+                        "endColumn": 67,
+                        "endOffset": 1063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 54,
+                    "endOffset": 443
+                },
+                "from": {
+                    "file": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-sw600dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1068,
+                        "endColumn": 54,
+                        "endOffset": 1118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 448,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 736
+                },
+                "from": {
+                    "file": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\values-sw600dp\\styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 193,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 741,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 896
+                },
+                "from": {
+                    "file": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\values-sw600dp\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 526,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 901,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1468
+                },
+                "from": {
+                    "file": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\values-sw600dp\\styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 691,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1473,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 1975
+                },
+                "from": {
+                    "file": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\values-sw600dp\\styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1275,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 1785
+                    }
+                }
+            }
+        ]
+    }
+]

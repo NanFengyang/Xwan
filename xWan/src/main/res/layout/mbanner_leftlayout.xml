@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/user_like_img"
+        android:layout_width="fill_parent"
+        android:layout_height="170dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/test_main_list_item1" />
+
+    <TextView
+        android:id="@+id/user_like_tv"
+        android:layout_width="fill_parent"
+        android:layout_height="30dp"
+        android:ellipsize="end"
+        android:gravity="center_vertical|center_horizontal"
+        android:padding="5dp"
+        android:singleLine="true"
+        android:text="美丽中国。摄影赞"
+        android:textColor="@color/app_text_color"
+        android:textSize="@dimen/text_size" />
+
+</LinearLayout>

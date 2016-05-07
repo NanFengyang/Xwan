@@ -1,0 +1,530 @@
+[
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_folder.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\multi-image-selector\\unspecified\\res\\layout\\list_item_folder.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\commentview_layout.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\commentview_layout.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\control_layer.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\control_layer.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\video_list_sport.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\video_list_sport.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_multi_image.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\multi-image-selector\\unspecified\\res\\layout\\fragment_multi_image.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_folder.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\multi-image-selector\\unspecified\\res\\layout\\list_item_folder.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_camera.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\multi-image-selector\\unspecified\\res\\layout\\list_item_camera.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\vidoplaylist_itemlayout.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\vidoplaylist_itemlayout.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\win8_item.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\win8_item.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_main_item.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\adapter_main_item.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\barragepopwindos_layout.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\barragepopwindos_layout.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\comment_itemlayout.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\comment_itemlayout.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\videocontainer_layout.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\videocontainer_layout.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title_base.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\activity_title_base.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_default.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\multi-image-selector\\unspecified\\res\\layout\\activity_default.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\video_play_error_layout.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\layout\\video_play_error_layout.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\layout_toast.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\layout_toast.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_comment.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\activity_comment.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\dlna_device_list_item.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\layout\\dlna_device_list_item.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_image.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\multi-image-selector\\unspecified\\res\\layout\\list_item_image.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\video_play_error_layout.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\layout\\video_play_error_layout.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_win8_layout.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\activity_win8_layout.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\flipper.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\flipper.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_contact.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\activity_user_contact.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_comment.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\activity_comment.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\img_photo_layout.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\img_photo_layout.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\flipper.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\flipper.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\win8_item.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\win8_item.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\dlna_list_layout_include.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\layout\\dlna_list_layout_include.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\img_photo_layout.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\img_photo_layout.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_default.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\multi-image-selector\\unspecified\\res\\layout\\activity_default.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\friends_merge_page.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\friends_merge_page.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\dlna_list_layout_include.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\layout\\dlna_list_layout_include.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\dlna_device_list_item.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\layout\\dlna_device_list_item.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\viewpage_layout.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\viewpage_layout.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\default_decodingtype_adapter.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\layout\\default_decodingtype_adapter.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\comment_itemlayout.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\comment_itemlayout.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\cmp_customer_actionbar.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\multi-image-selector\\unspecified\\res\\layout\\cmp_customer_actionbar.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\control_layer_horizon.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\control_layer_horizon.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\dlna_connection_layout_include.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\layout\\dlna_connection_layout_include.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\detail_itemimageview.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\detail_itemimageview.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\viewpage_layout.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\viewpage_layout.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\friends_info.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\friends_info.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\dlna_connection_layout_include.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\layout\\dlna_connection_layout_include.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\mbanner_leftlayout.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\mbanner_leftlayout.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\video_layout.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\video_layout.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\control_layer_horizon.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\control_layer_horizon.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\tip_layout.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\layout\\tip_layout.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_win8_layout.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\activity_win8_layout.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\default_decodingtype_adapter.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\layout\\default_decodingtype_adapter.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_multi_image.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\multi-image-selector\\unspecified\\res\\layout\\fragment_multi_image.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_main_item.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\adapter_main_item.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\control_layer.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\control_layer.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\commentview_layout.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\commentview_layout.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\tip_layout.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\layout\\tip_layout.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\mainbanner_layout.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\mainbanner_layout.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_image.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\multi-image-selector\\unspecified\\res\\layout\\list_item_image.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\friends_info.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\friends_info.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_camera.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\multi-image-selector\\unspecified\\res\\layout\\list_item_camera.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title_base.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\activity_title_base.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\layout_toast.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\layout_toast.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_contact.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\activity_user_contact.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\mbanner_leftlayout.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\mbanner_leftlayout.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\friends_merge_page.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\friends_merge_page.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\video_layout.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\video_layout.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\videocontainer_layout.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\videocontainer_layout.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\video_list_sport.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\video_list_sport.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\cmp_customer_actionbar.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\multi-image-selector\\unspecified\\res\\layout\\cmp_customer_actionbar.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\barragepopwindos_layout.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\barragepopwindos_layout.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\indicater_layer_include.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\xWan\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playersdk_v20\\unspecified\\res\\layout\\indicater_layer_include.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\vidoplaylist_itemlayout.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\vidoplaylist_itemlayout.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\detail_itemimageview.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\detail_itemimageview.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\mainbanner_layout.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\src\\main\\res\\layout\\mainbanner_layout.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\res\\merged\\debug\\layout\\indicater_layer_include.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\xWan\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playersdk_v20\\unspecified\\res\\layout\\indicater_layer_include.xml"
+    }
+]

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusable="false"
+    android:padding="5dp">
+
+    <LinearLayout
+        android:id="@+id/comment_left"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+       >
+
+        <com.example.xwan.View.Image.shapeimageview.RoundedImageView
+            android:id="@+id/comment_heard"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/hearder" />
+        <TextView
+            android:id="@+id/comment_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="张小梦"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/app_text_color"
+            android:textSize="@dimen/text_size"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/comment_left"
+        android:background="@drawable/shape_c_textbg"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/comment_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:text="腾讯网(www.QQ.com)是中国浏览量最大的中文门户网站,是腾讯公司推出的集新闻信息、互动社区、娱乐产品和基础服务为一体的大型综合门户网站。腾讯网服务于全球华人..."
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/text_size" />
+
+        <com.example.xwan.View.ScrollViewGridView
+            android:id="@+id/comment_imgs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:numColumns="3"
+            android:horizontalSpacing="10dp"
+            android:padding="5dp" />
+    </LinearLayout>
+</RelativeLayout>

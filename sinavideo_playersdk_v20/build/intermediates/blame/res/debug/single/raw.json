@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\debug\\raw\\libsplayer.7z",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\exploded-aar\\Xwan\\sinavideo_playercore_v20\\unspecified\\res\\raw\\libsplayer.7z"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\debug\\raw\\config.properties",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\raw\\config.properties"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\debug\\raw\\config.properties",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\raw\\config.properties"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\debug\\raw\\libsplayer.7z",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\exploded-aar\\XWan2\\sinavideo_playercore_v20\\unspecified\\res\\raw\\libsplayer.7z"
+    }
+]

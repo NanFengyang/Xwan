@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="folder_cover_size">72dp</dimen>
+    <dimen name="image_size">120dp</dimen>
+    <dimen name="space_size">2dp</dimen>
+    <string name="action_done">Done</string>
+    <string name="app_name">multi-image-selector</string>
+    <string name="folder_all">All Images</string>
+    <string name="msg_amount_limit">Select images amount is limit</string>
+    <string name="msg_no_camera">No system camera found</string>
+    <string name="photo_unit">Shot</string>
+    <string name="preview">Preview</string>
+    <string name="tip_take_photo">Take photo</string>
+</resources>

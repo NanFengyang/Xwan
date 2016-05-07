@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\debug\\layout\\indicater_layer_include.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\layout\\indicater_layer_include.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\debug\\layout\\dlna_connection_layout_include.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\layout\\dlna_connection_layout_include.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\debug\\layout\\dlna_connection_layout_include.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\layout\\dlna_connection_layout_include.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\debug\\layout\\default_decodingtype_adapter.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\layout\\default_decodingtype_adapter.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\debug\\layout\\dlna_device_list_item.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\layout\\dlna_device_list_item.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\debug\\layout\\default_decodingtype_adapter.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\layout\\default_decodingtype_adapter.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\debug\\layout\\indicater_layer_include.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\layout\\indicater_layer_include.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\debug\\layout\\dlna_list_layout_include.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\layout\\dlna_list_layout_include.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\debug\\layout\\tip_layout.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\layout\\tip_layout.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\debug\\layout\\dlna_list_layout_include.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\layout\\dlna_list_layout_include.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\debug\\layout\\video_play_error_layout.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\layout\\video_play_error_layout.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\debug\\layout\\tip_layout.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\layout\\tip_layout.xml"
+    },
+    {
+        "merged": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\debug\\layout\\video_play_error_layout.xml",
+        "source": "D:\\OnWrok\\AS\\asproject\\XWan2\\sinavideo_playersdk_v20\\src\\main\\res\\layout\\video_play_error_layout.xml"
+    },
+    {
+        "merged": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\build\\intermediates\\res\\merged\\debug\\layout\\dlna_device_list_item.xml",
+        "source": "F:\\androidwork\\git\\Xwan\\sinavideo_playersdk_v20\\src\\main\\res\\layout\\dlna_device_list_item.xml"
+    }
+]
